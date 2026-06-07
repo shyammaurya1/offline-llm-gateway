@@ -164,4 +164,4 @@ Useful commands are documented in [cmd.md](cmd.md).
 
 ## License
 
-Add your preferred license before publishing publicly.
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
